@@ -1,0 +1,10 @@
+/home/taher/graph-play/bin/Debug/netcoreapp2.0/graph-play.deps.json
+/home/taher/graph-play/bin/Debug/netcoreapp2.0/graph-play.runtimeconfig.json
+/home/taher/graph-play/bin/Debug/netcoreapp2.0/graph-play.runtimeconfig.dev.json
+/home/taher/graph-play/bin/Debug/netcoreapp2.0/graph-play.dll
+/home/taher/graph-play/bin/Debug/netcoreapp2.0/graph-play.pdb
+/home/taher/graph-play/obj/Debug/netcoreapp2.0/graph-play.csproj.CoreCompileInputs.cache
+/home/taher/graph-play/obj/Debug/netcoreapp2.0/graph-play.AssemblyInfoInputs.cache
+/home/taher/graph-play/obj/Debug/netcoreapp2.0/graph-play.AssemblyInfo.cs
+/home/taher/graph-play/obj/Debug/netcoreapp2.0/graph-play.dll
+/home/taher/graph-play/obj/Debug/netcoreapp2.0/graph-play.pdb
